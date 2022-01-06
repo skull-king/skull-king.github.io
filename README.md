@@ -1,1 +1,1 @@
-# boredocto.github.io
+# skull-king.github.io
