@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa4ecc59991f0b5a014e4711dabbc7c4d85c2225f",
+  "SCAN_LINK": "https://polygonscan.com/token/0xa4ecc59991f0b5a014e4711dabbc7c4d85c2225f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Skull King Art",
+  "SYMBOL": "Skull",
+  "MAX_SUPPLY": 2540,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/skull-king-art",
+  "SHOW_BACKGROUND": true
+}
